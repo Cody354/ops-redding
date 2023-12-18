@@ -4,8 +4,8 @@
  *Its fame stems from being one of the earliest consumer-grade routers that supported custom firmware, notably the open-source firmware projects like DD-WRT, OpenWRT, and Tomato. This feature allowed users to customize and expand the router's capabilities beyond the manufacturer's specifications, making it popular among tech enthusiasts, hobbyists, and professionals.
 
 2.Given it’s age, why do people continue to buy the Linksys WRT54GL?
-* People continue to buy the WRT54GL for several reasons:
-Its reliability: Despite being an older model, it's known for its stability and durability.
+People continue to buy the WRT54GL for several reasons:
+*Its reliability: Despite being an older model, it's known for its stability and durability.
 Custom firmware support: Enthusiasts and those seeking specific functionalities prefer this router due to its ability to run various custom firmware options.
 *Cost-effectiveness: It's often available at lower prices compared to newer models, making it an attractive option for those on 
 a budget or those seeking a basic router for specific purposes.
