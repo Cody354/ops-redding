@@ -1,4 +1,4 @@
-###Cody Blahnik 12/18/23
+#Cody Blahnik 12/18/23
 
 ##What makes the Linksys WRT54GL famous?
  Its fame stems from being one of the earliest consumer-grade routers that supported custom firmware, notably the open-source firmware projects like DD-WRT, OpenWRT, and Tomato. This feature allowed users to customize and expand the router's capabilities beyond the manufacturer's specifications, making it popular among tech enthusiasts, hobbyists, and professionals.
