@@ -20,3 +20,4 @@ Integrity Checks: SSH uses cryptographic techniques to verify that the data rece
 
 #What is SFTP?
 SFTP (SSH File Transfer Protocol) is an extension of SSH that provides a secure method for transferring files between computers over a network. It operates over the encrypted SSH connection and offers file management functionalities similar to FTP, but with added security features. SFTP allows file transfer, directory listing, file permission changes, and other file-related operations in a secure environment.
+https://chat.openai.com/share/de1db2cf-58d1-49e0-99b8-7d816c90a81b
