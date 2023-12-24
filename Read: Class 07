@@ -1,0 +1,22 @@
+#What is the Secure Shell (SSH) Protocol?
+The Secure Shell (SSH) protocol is a cryptographic network protocol that provides a secure way to access and manage remote devices or servers over an unsecured network. It encrypts the communication between a client and a server, ensuring confidentiality and integrity of data transmission.
+
+#What are the typical uses of the SSH protocol?
+Remote Login: SSH allows users to log in to a remote system securely, providing a command-line interface for remote access.
+Secure File Transfer: It enables secure file transfer between systems, ensuring data integrity and confidentiality.
+Tunneling: SSH supports tunneling, which allows the creation of encrypted channels for secure transmission of other network services like FTP, VNC, or database connections.
+
+#How does the SSH protocol work?
+Connection Establishment: The client initiates a connection request to the SSH server. Both the client and server exchange identification information during this phase.
+Key Exchange: SSH negotiates cryptographic algorithms and keys for encrypting the subsequent communication.
+User Authentication: Users must authenticate themselves to the server, typically using passwords, SSH keys, or other authentication methods supported by SSH.
+Session Establishment: Once authenticated, a secure channel or session is established for encrypted data transmission.
+Encrypted Data Transfer: All data transmitted between the client and server during the session is encrypted, ensuring confidentiality and integrity.
+
+#How is the data kept safe when transmitted between the SSH client and server?
+Encryption: Data transmitted over an SSH connection is encrypted, preventing unauthorized access and eavesdropping.
+Authentication: Users need valid credentials (passwords, SSH keys, etc.) to authenticate themselves, ensuring only authorized users can access the system.
+Integrity Checks: SSH uses cryptographic techniques to verify that the data received has not been altered during transmission.
+
+#What is SFTP?
+SFTP (SSH File Transfer Protocol) is an extension of SSH that provides a secure method for transferring files between computers over a network. It operates over the encrypted SSH connection and offers file management functionalities similar to FTP, but with added security features. SFTP allows file transfer, directory listing, file permission changes, and other file-related operations in a secure environment.
