@@ -1,0 +1,39 @@
+##Cody Blahnik 123/28/2023
+
+
+Readings: Virtualization of Windows OS
+Below you will find some reading materials and videos that support today’s topic and the upcoming lecture.
+
+Reading
+What is an ISO file?: Only read sections 1.1 - 1.4 inclusively.
+
+#What is an ISO File?
+An ISO file, short for "ISO image," is a disk image file format that contains the exact content and structure of an optical disc (such as a CD, DVD, or Blu-ray). It's essentially a single file that represents an entire CD, DVD, or other optical disc, including the file system, files, and metadata. ISO files are commonly used to distribute software, operating systems, and other large sets of files.
+
+How do you write an ISO file to a CD, DVD, or removable media (like a thumb drive)?
+Using a CD/DVD: Most modern operating systems have built-in utilities to burn ISO files to a CD or DVD. You can right-click on the ISO file and select "Burn disc image" or use third-party software like ImgBurn (Windows), Brasero (Linux), or Disk Utility (macOS).
+
+Using a USB Drive: To create a bootable USB drive from an ISO file, you can use tools like Rufus (Windows), balenaEtcher (supports Windows, macOS, Linux), or the built-in Disk Utility (macOS) to "restore" the ISO file to the USB drive.
+
+How do you create an ISO file?
+Windows: You can create an ISO file from a disc or a folder using third-party software like ImgBurn, PowerISO, or built-in utilities like Windows Disc Image Burner (for creating ISO from files/folders) or Command Prompt commands like diskpart and xcopy.
+
+macOS: You can create an ISO file from a disc using Disk Utility. Open Disk Utility, select the disc, and choose "File" > "New Image" > "Image from [disc name]." You can also create an ISO from folders using Terminal commands.
+
+Linux: You can create an ISO file from a folder or disc using the dd command or tools like Brasero or mkisofs.
+
+How do you mount an ISO file?
+Windows: Right-click on the ISO file and select "Mount" or use third-party software like WinCDEmu, Daemon Tools, or PowerISO to mount the ISO.
+
+macOS: Simply double-click the ISO file, and it will be mounted as a virtual drive. Alternatively, you can use Terminal commands like hdiutil to mount the ISO.
+
+Linux: You can mount an ISO file using the Terminal with the mount command or using the file manager by right-clicking on the ISO file and selecting "Mount."
+
+When mounting an ISO file, it behaves like a physical disc inserted into your computer, allowing you to access its contents without needing an actual physical disc.
+
+Always ensure the legality of using and distributing ISO files, especially when dealing with copyrighted content like software or operating systems.
+
+
+
+
+https://chat.openai.com/share/ed9e6d94-d627-4e2c-a2d6-45cc6128ae08
